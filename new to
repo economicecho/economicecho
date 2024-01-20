@@ -1,0 +1,5 @@
+print("Hello world!)
+first_name = 'albert'
+second_name = 'einstein'
+full_name = first_name + '' + last_name
+print(full name)
